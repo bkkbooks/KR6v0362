@@ -1,0 +1,170 @@
+canonical_identifier: bkk:krp/KR6v0362/v1
+canonical_location: https://kanripo.org/bkk/KR6v0362/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 大密妙義深道六法引導廣論纂要
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B10/B10n0063.xml
+    old_id: B10n0063
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0362_000.yaml, hash: 'sha256:668f4f0b3d8f1b4e0d24eb592d4cbe079e312ee1a229fbabc5ceb28688bdf9b4'}
+  - {seq: 1, filename: KR6v0362_001.yaml, hash: 'sha256:3928f3a76da3c9b120bd228f4ce822c59636c2c651550d4756275ba708a5bbd4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0362_000.markers.yaml, hash: 'sha256:e5e78f9431db2c2146592a5f0b7a262e0b00b489a686f6921f00387a99efbd2b'}
+  - {seq: 1, role: markers, filename: assets/KR6v0362_001.markers.yaml, hash: 'sha256:24bc05acc2b378b3ee2205f6c81b2d19c96e51bc59994654cec4e918cfc56b30'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0362_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 提醒
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0362_B_000-mulu-2
+    span:
+    - front
+    - 11
+    - 11
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0362_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 8981
+  label: 顯明大密妙義深道六法引導廣論簒要
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0362_B_001-mulu-1
+    span:
+    - body
+    - 50
+    - 50
+  label: 原論編次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0362_B_001-mulu-2
+    span:
+    - body
+    - 204
+    - 204
+  label: 總義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0362_B_001-mulu-3
+    span:
+    - body
+    - 1149
+    - 1149
+  label: 各義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0362_B_001-mulu-4
+    span:
+    - body
+    - 1151
+    - 1151
+  label: 一　忿怒母口授偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0362_B_001-mulu-5
+    span:
+    - body
+    - 2150
+    - 2150
+  label: 二　幻身口授偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0362_B_001-mulu-6
+    span:
+    - body
+    - 2982
+    - 2982
+  label: 三　修夢口授偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0362_B_001-mulu-7
+    span:
+    - body
+    - 3549
+    - 3549
+  label: 四　光明口授偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0362_B_001-mulu-8
+    span:
+    - body
+    - 4756
+    - 4756
+  label: 五　中有口授偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0362_B_001-mulu-9
+    span:
+    - body
+    - 6417
+    - 6417
+  label: 六　生西口授偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0362_B_001-mulu-10
+    span:
+    - body
+    - 8184
+    - 8184
+  label: 綜論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0362_B_001-mulu-11
+    span:
+    - body
+    - 8963
+    - 8963
+  label: 藏字一覽
+  type: mulu
+  level: 1
+hash: sha256:9a58a33a2dde6c6888aae819c6e031a31fe252dce730277356a8b068476e6a3e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

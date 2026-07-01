@@ -1,0 +1,168 @@
+canonical_identifier: bkk:krp/KR6v0362/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0362/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 大密妙義深道六法引導廣論纂要
+  identifiers:
+    krp: KR6v0362
+    cbeta: B10n0063
+    cbeta_old_id: B10n0063
+    authorityid: CA0006147
+    json_key: B0063
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B10/B10n0063.xml
+    old_id: B10n0063
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0362_000-B.yaml, hash: 'sha256:3b5797f893a533084886acb331e9482be08fc47eb5dee82af080a3e08a5dc476'}
+  - {seq: 1, filename: KR6v0362_001-B.yaml, hash: 'sha256:d3771b6615559ef874252711041527e712fe94032a9b8fd2c4bfcd809c5b25db'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0362_000-B.markers.yaml, hash: 'sha256:0416291faa8535510e1b815d303853932c07bffa3f851dc5f63af0ea4f220fd9'}
+  - {seq: 1, role: markers, filename: assets/KR6v0362_001-B.markers.yaml, hash: 'sha256:5ddadddab01f9a0c4651cca5058211813bd19c409421ab6f5da8e758c3b59ac5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0362_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 提醒
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0362_B_000-mulu-2
+    span:
+    - front
+    - 11
+    - 11
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0362_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 8981
+  label: 顯明大密妙義深道六法引導廣論簒要
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0362_B_001-mulu-1
+    span:
+    - body
+    - 50
+    - 50
+  label: 原論編次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0362_B_001-mulu-2
+    span:
+    - body
+    - 204
+    - 204
+  label: 總義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0362_B_001-mulu-3
+    span:
+    - body
+    - 1149
+    - 1149
+  label: 各義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0362_B_001-mulu-4
+    span:
+    - body
+    - 1151
+    - 1151
+  label: 一　忿怒母口授偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0362_B_001-mulu-5
+    span:
+    - body
+    - 2150
+    - 2150
+  label: 二　幻身口授偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0362_B_001-mulu-6
+    span:
+    - body
+    - 2982
+    - 2982
+  label: 三　修夢口授偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0362_B_001-mulu-7
+    span:
+    - body
+    - 3549
+    - 3549
+  label: 四　光明口授偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0362_B_001-mulu-8
+    span:
+    - body
+    - 4756
+    - 4756
+  label: 五　中有口授偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0362_B_001-mulu-9
+    span:
+    - body
+    - 6417
+    - 6417
+  label: 六　生西口授偈
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0362_B_001-mulu-10
+    span:
+    - body
+    - 8184
+    - 8184
+  label: 綜論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0362_B_001-mulu-11
+    span:
+    - body
+    - 8963
+    - 8963
+  label: 藏字一覽
+  type: mulu
+  level: 1
+hash: sha256:7c0288e12010b4b7f055b31b236be96c52d3258bc9cd342b8360d712d67f353d
