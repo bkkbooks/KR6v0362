@@ -19,17 +19,17 @@ metadata:
     short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0362_000-B.yaml, hash: 'sha256:3b5797f893a533084886acb331e9482be08fc47eb5dee82af080a3e08a5dc476'}
+  - {seq: 0, filename: KR6v0362_000-B.yaml, hash: 'sha256:96c5b7f39c8621accafb98ec0022eca66a196a1ed6ec9735dfcd45ea673ce0ec'}
   - {seq: 1, filename: KR6v0362_001-B.yaml, hash: 'sha256:d3771b6615559ef874252711041527e712fe94032a9b8fd2c4bfcd809c5b25db'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0362_000-B.markers.yaml, hash: 'sha256:0416291faa8535510e1b815d303853932c07bffa3f851dc5f63af0ea4f220fd9'}
+  - {seq: 0, role: markers, filename: assets/KR6v0362_000-B.markers.yaml, hash: 'sha256:a78d012740cca2c104762b398ef389d780a51d88ef94af98e33fad055065c999'}
   - {seq: 1, role: markers, filename: assets/KR6v0362_001-B.markers.yaml, hash: 'sha256:5ddadddab01f9a0c4651cca5058211813bd19c409421ab6f5da8e758c3b59ac5'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0362_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 提醒
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0362_B_000-mulu-2
     span:
-    - front
+    - body
     - 11
     - 11
   label: 序
@@ -165,4 +165,4 @@ table_of_contents:
   label: 藏字一覽
   type: mulu
   level: 1
-hash: sha256:7c0288e12010b4b7f055b31b236be96c52d3258bc9cd342b8360d712d67f353d
+hash: sha256:0f8821b3d20f05b958934fe3b3dca6c95b9b8255626b69a749d6a56883c07b84
